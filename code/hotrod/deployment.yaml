@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: hotrod
+  name: hotrod
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: hotrod
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: hotrod
+    spec:
+      containers:
+      - image: 'jaegertracing/example-hotrod'
+        name: example-hotrod
+        resources: {}
+status: {}

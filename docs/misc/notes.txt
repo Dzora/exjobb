@@ -1,0 +1,3 @@
+kubectl apply -f deployment.yaml
+kubectl expose deployment hotrod --type LoadBalancer --port 80 --target-port 8080
+kubectl edit deployment hotrod
