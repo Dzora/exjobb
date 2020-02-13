@@ -1,0 +1,37 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  annotations:
+    kompose.cmd: kompose convert
+    kompose.version: 1.16.0 (0c01309)
+  creationTimestamp: null
+  labels:
+    io.kompose.service: dependencies
+  name: dependencies
+spec:
+  replicas: 1
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        io.kompose.service: dependencies
+    spec:
+      containers:
+      - command:
+        - crond
+        - -f
+        env:
+        - name: MYSQL_HOST
+          value: mysql
+        - name: MYSQL_PASS
+          value: zipkin
+        - name: MYSQL_USER
+          value: zipkin
+        - name: STORAGE_TYPE
+          value: mysql
+        image: openzipkin/zipkin-dependencies
+        name: dependencies
+        resources: {}
+      restartPolicy: Always
+status: {}
