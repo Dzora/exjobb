@@ -9,9 +9,8 @@ spec:
   strategy: {}
   template:
     metadata:
-      creationTimestamp: null
       labels:
-        io.kompose.service: zipkin
+        app: zipkin
     spec:
       containers:
       - env:
