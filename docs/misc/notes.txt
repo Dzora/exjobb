@@ -1,4 +1,4 @@
-Rapport struktur inför pear review
-Istio-Teastore https://github.com/DescartesResearch/TeaStore/wiki
-TeaStore benchmarking, 2 machines? https://github.com/DescartesResearch/TeaStore/wiki/Testing-and-Benchmarking
-Vad ska jag testa?
+Erik:
+
+Karl: Titeln, svårt att förstå vad du ska testa exakt, inte abstract som chapter, 
+
