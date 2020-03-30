@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "Starting"
 kubectl delete pods,deployments,services -l app=teastore
-gcloud compute firewall-rules delete nodeport
+kubectl delete configmap tracing-config
 echo "Done"

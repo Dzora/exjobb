@@ -14,11 +14,7 @@ spec:
     spec:
       containers:
       - env:
-        - name: MYSQL_HOST
-          value: mysql
-        - name: STORAGE_TYPE
-          value: mysql
-        image: openzipkin/zipkin
+        image: openzipkin/zipkin:latest
         name: zipkin
         ports:
         - containerPort: 9411

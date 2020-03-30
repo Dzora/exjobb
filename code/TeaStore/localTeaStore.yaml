@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
       - name: teastore-db
-        image: descartesresearch/teastore-db
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-db:jaeger
         ports:
         - containerPort: 3306
 ---
@@ -42,9 +42,9 @@ spec:
     spec:
       containers:
       - name: teastore-registry
-        image: descartesresearch/teastore-registry
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-registry:jaeger
         ports:
-        - containerPort: 8080
+        - containerPort: 8080 
 ---
 apiVersion: v1
 kind: Service
@@ -73,7 +73,7 @@ spec:
     spec:
       containers:
       - name: teastore-persistence
-        image: descartesresearch/teastore-persistence
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-persistence:jaeger
         ports:
         - containerPort: 8080
         env:
@@ -84,7 +84,7 @@ spec:
         - name: DB_HOST
           value: "teastore-db"
         - name: DB_PORT
-          value: "3306" 
+          value: "3306"
 ---
 apiVersion: v1
 kind: Service
@@ -113,7 +113,7 @@ spec:
     spec:
       containers:
       - name: teastore-auth
-        image: descartesresearch/teastore-auth
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-auth:jaeger
         ports:
         - containerPort: 8080
         env:
@@ -149,14 +149,14 @@ spec:
     spec:
       containers:
       - name: teastore-image
-        image: descartesresearch/teastore-image
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-image:jaeger
         ports:
         - containerPort: 8080
         env:
         - name: HOST_NAME
           value: "teastore-image"
         - name: REGISTRY_HOST
-          value: "teastore-registry" 
+          value: "teastore-registry"    
 ---
 apiVersion: v1
 kind: Service
@@ -185,14 +185,14 @@ spec:
     spec:
       containers:
       - name: teastore-recommender
-        image: descartesresearch/teastore-recommender
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-recommender:jaeger
         ports:
         - containerPort: 8080
         env:
         - name: HOST_NAME
           value: "teastore-recommender"
         - name: REGISTRY_HOST
-          value: "teastore-registry"  
+          value: "teastore-registry"
 ---
 apiVersion: v1
 kind: Service
@@ -221,15 +221,23 @@ spec:
     spec:
       containers:
       - name: teastore-webui
-        image: descartesresearch/teastore-webui
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-webui:jaeger
         ports:
         - containerPort: 8080
         env:
         - name: HOST_NAME
           value: "teastore-webui"
         - name: REGISTRY_HOST
-          value: "teastore-registry" 
----
+          value: "teastore-registry"
+        volumeMounts:
+        - name: config-volume
+          mountPath: /config
+      volumes:
+      - name: config-volume
+        configMap:
+          name: tracing-config     
+
+---          
 apiVersion: v1
 kind: Service
 metadata:

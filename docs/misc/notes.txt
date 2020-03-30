@@ -1,4 +1,18 @@
-Erik:
+mvn clean install -DskipTests -Dcheckstyle.skip
+sh docker_build.sh
+docker-compose -f docker-compose_default.yaml up -d
 
-Karl: Titeln, svårt att förstå vad du ska testa exakt, inte abstract som chapter, 
+docker stop $(docker ps -q)
 
+docker inspect cocky_goldstine -f "{{json .NetworkSettings.Networks }}"
+docker network disconnect bridge cocky_goldstine
+docker network connect docker_default cocky_goldstine
+
+vecka 8:
+Lyckades få till tracing lokalt med microdonuts till jaeger och zipkin. Klonade teastore och försökte ändra i det men fick bara errors.
+vecka 9:
+Fick till en början inget att funka. Gick itne att kompilera. Senare fick jag till det genom att byta ner mig till java 8 men det tog fortfarande 100år att kompilera pga surefire tester. Kom senare på att man kunde köra utan det. Lyckades i slutet av veckan att kompilera och bygga dockerfiler av TeaStore.
+I början så gick det itne att tracea över docker. Problemet låg i att det var två olika virituella nätverk de låg på. Mitt i veckan så försökte jag pusha till google container registry men det ville inte funka. Lyckades tillslut pusha till container repository på ett krångligt sätt och fixade ett script som kör allt och ett annat som tar ned allt. 
+
+vecka 11: 
+Måndag: Suttit och försök få jaeger och teastore att pratat med varan i clustret. Fick nästan till configmap för att göra det fortare.
