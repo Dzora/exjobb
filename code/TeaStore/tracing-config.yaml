@@ -5,12 +5,12 @@ apiVersion: v1
 metadata:
     name: tracing-config
 data:
-    tracer_config.properties: |
+    TRACER_CONFIG_PROPERTIES: |
         // Selector for the below config blocks
-        tracer=zipkin
+        tracer=jaeger
         // Jaeger config
-        jaeger.reporter_host=localhost
-        jaeger.reporter_port=5775
+        jaeger.reporter_host=jaeger
+        jaeger.reporter_port=6831
         // Zipkin config
         zipkin.reporter_host=zipkin
         zipkin.reporter_port=9411
