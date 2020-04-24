@@ -1,5 +1,5 @@
 #!/bin/bash
-sh deleteTeaStore.sh
+sh ../teastore/deleteTeaStore.sh
 
 sh deleteImagesFromContainer.sh
 

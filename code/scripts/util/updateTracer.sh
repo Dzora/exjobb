@@ -1,6 +1,6 @@
 #!/bin/bash
 
-kubectl apply -f ../TeaStore/tracing-config.yaml
+kubectl apply -f ../../TeaStore/tracing-config.yaml
 
 kubectl scale deployment/teastore-webui --replicas=0;
 kubectl scale deployment/teastore-webui --replicas=1;

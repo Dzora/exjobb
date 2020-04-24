@@ -229,7 +229,7 @@ spec:
     metadata:
       labels:
         app: teastore
-        run: teastore-webui
+        run: teastore-webui   
     spec:
       containers:
       - name: teastore-webui

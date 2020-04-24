@@ -16,3 +16,27 @@ I början så gick det itne att tracea över docker. Problemet låg i att det va
 
 vecka 11: 
 Måndag: Suttit och försök få jaeger och teastore att pratat med varan i clustret. Fick nästan till configmap för att göra det fortare.
+
+21/4. Hittade JMeter och uppdaterade teastore till att kunna köra utan tracing.
+
+
+list product
+Thread Name	Thread-Gruppe 1-1
+Sample Start	2020-04-21 18:39:09 CEST
+Load time	646
+Connect Time	0
+Latency	596
+Size in bytes	118983
+Sent bytes	779
+Headers size in bytes	249
+Body size in bytes	118734
+Sample Count	1
+Error Count	0
+Response code	200
+Response message	
+
+
+latency
+throughput
+minne, cpu osv via promethues nodeexporter och grafana
+tx rx 
