@@ -21,4 +21,8 @@ spec:
         - containerPort: 16686
         resources: {}
       restartPolicy: Always
+      tolerations:
+      - key: "node2"
+        operator: "Exists"
+        effect: "NoSchedule"
 status: {}

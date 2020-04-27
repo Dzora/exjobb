@@ -2,7 +2,7 @@
 
 echo "Starting"
 kubectl apply -f ../../TeaStore/tracing-config.yaml
-kubectl apply -f ../../TeaStore/localTeaStore.yaml
+kubectl apply -f ../../TeaStore/localTeaStoreWithTolerations.yaml
 
 
 

@@ -20,4 +20,8 @@ spec:
         - containerPort: 9411
         resources: {}
       restartPolicy: Always
+      tolerations:
+      - key: "node2"
+        operator: "Exists"
+        effect: "NoSchedule"
 status: {}

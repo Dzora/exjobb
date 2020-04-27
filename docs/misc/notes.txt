@@ -19,24 +19,26 @@ Måndag: Suttit och försök få jaeger och teastore att pratat med varan i clus
 
 21/4. Hittade JMeter och uppdaterade teastore till att kunna köra utan tracing.
 
-
-list product
-Thread Name	Thread-Gruppe 1-1
-Sample Start	2020-04-21 18:39:09 CEST
-Load time	646
-Connect Time	0
-Latency	596
-Size in bytes	118983
-Sent bytes	779
-Headers size in bytes	249
-Body size in bytes	118734
-Sample Count	1
-Error Count	0
-Response code	200
-Response message	
-
+timeStamp	elapsed	label	success	bytes	sentBytes	Latency
+1587993899934	119	Home	true	8822	156	117
+1587993900057	119	Login	true	10105	1039	63
+1587993900177	196	List Products	true	118983	781	144
+1587993900377	201	Look at Product	true	107926	769	180
+1587993900579	156	Add Product to Cart	true	25417	1759	45
+1587993900737	435	List Products with different page	true	118128	907	435
+1587993901175	172	Add Product 2 to Cart	true	26117	2003	55
+1587993901348	84	Logout	true	10479	1845	34
 
 latency
 throughput
 minne, cpu osv via promethues nodeexporter och grafana
 tx rx 
+
+
+		  min,max,avg
+
+CPU-Total 121%209%152 (20 1 10) nothing
+CPU-Total 72%269%190% (20 1 10) nothing
+
+CPU-Total 70%292%241% (20 1 10) jaeger
+CPU-Total 80%281%224% (20 1 10) jaeger

@@ -40,6 +40,10 @@ spec:
           configMap:
               defaultMode: 420
               name: grafana-datasources
+      tolerations:
+      - key: "node1"
+        operator: "Exists"
+        effect: "NoSchedule"        
 ---
 apiVersion: v1
 kind: Service

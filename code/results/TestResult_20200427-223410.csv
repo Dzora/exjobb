@@ -1,0 +1,1601 @@
+timeStamp,elapsed,label,success,Latency
+1588019650912,60,Home,true,58
+1588019650836,136,Home,true,131
+1588019650836,136,Home,true,131
+1588019650862,110,Home,true,105
+1588019650964,72,Home,true,72
+1588019651012,75,Home,true,75
+1588019651063,97,Home,true,97
+1588019651112,69,Home,true,69
+1588019651164,68,Home,true,67
+1588019651211,67,Home,true,66
+1588019651311,259,Home,true,259
+1588019651361,224,Home,true,207
+1588019651261,324,Home,true,324
+1588019651413,180,Home,true,180
+1588019651461,143,Home,true,141
+1588019650980,632,Login,true,551
+1588019651089,533,Login,true,486
+1588019651512,118,Home,true,118
+1588019650980,660,Login,true,576
+1588019651565,95,Home,true,95
+1588019650980,708,Login,true,574
+1588019650980,707,Login,true,563
+1588019651612,95,Home,true,94
+1588019651161,574,Login,true,434
+1588019651665,72,Home,true,71
+1588019651182,586,Login,true,405
+1588019651037,735,Login,true,502
+1588019651713,78,Home,true,78
+1588019651232,604,Login,true,458
+1588019651613,234,List Products,true,166
+1588019651623,248,List Products,true,185
+1588019651688,214,List Products,true,163
+1588019651641,263,List Products,true,217
+1588019651279,627,Login,true,549
+1588019651736,211,List Products,true,150
+1588019651773,180,List Products,true,119
+1588019651770,238,List Products,true,165
+1588019651688,343,List Products,true,273
+1588019651906,231,List Products,true,185
+1588019651571,576,Login,true,395
+1588019651838,336,List Products,true,287
+1588019651903,375,Look at Product,true,351
+1588019651586,995,Login,true,380
+1588019651594,987,Login,true,540
+1588019651586,996,Login,true,543
+1588019651875,728,Look at Product,true,706
+1588019651605,1065,Login,true,976
+1588019651661,1028,Login,true,920
+1588019651793,1016,Login,true,801
+1588019651631,1198,Login,true,950
+1588019652148,743,List Products,true,695
+1588019651707,1189,Login,true,874
+1588019652032,867,Look at Product,true,844
+1588019651904,1053,Look at Product,true,1028
+1588019651738,1291,Login,true,877
+1588019651850,1227,Look at Product,true,1200
+1588019651949,1314,Look at Product,true,1294
+1588019652583,713,List Products,true,666
+1588019651955,1383,Look at Product,true,1363
+1588019652672,742,List Products,true,666
+1588019652583,901,List Products,true,857
+1588019652691,843,List Products,true,793
+1588019652830,735,List Products,true,689
+1588019652896,713,List Products,true,650
+1588019652583,1041,List Products,true,993
+1588019652810,865,List Products,true,813
+1588019653030,789,List Products,true,744
+1588019652604,1242,Add Product to Cart,true,180
+1588019652177,1737,Look at Product,true,1714
+1588019652140,1851,Look at Product,true,1826
+1588019652011,2057,Look at Product,true,2027
+1588019652899,1349,Add Product to Cart,true,204
+1588019652892,1376,Look at Product,true,1348
+1588019652958,1316,Add Product to Cart,true,108
+1588019652280,2002,Add Product to Cart,true,490
+1588019653846,487,List Products with different page,true,414
+1588019653339,1313,Add Product to Cart,true,174
+1588019653077,1575,Add Product to Cart,true,182
+1588019653536,1118,Look at Product,true,1092
+1588019653297,1359,Look at Product,true,1332
+1588019653415,1247,Look at Product,true,1214
+1588019653567,1116,Look at Product,true,1062
+1588019654275,516,List Products with different page,true,474
+1588019653264,1562,Add Product to Cart,true,169
+1588019653487,1352,Look at Product,true,1303
+1588019653676,1163,Look at Product,true,1138
+1588019654283,583,List Products with different page,true,516
+1588019654249,625,List Products with different page,true,573
+1588019653612,1294,Look at Product,true,1273
+1588019653820,1190,Look at Product,true,1126
+1588019653626,1395,Look at Product,true,1328
+1588019653915,1177,Add Product to Cart,true,118
+1588019654070,1040,Add Product to Cart,true,84
+1588019654654,582,List Products with different page,true,534
+1588019654654,624,List Products with different page,true,582
+1588019654827,514,List Products with different page,true,469
+1588019653992,1613,Add Product to Cart,true,137
+1588019655112,558,List Products with different page,true,510
+1588019655093,638,List Products with different page,true,594
+1588019654268,1588,Add Product to Cart,true,114
+1588019655606,267,List Products with different page,true,236
+1588019654655,1238,Add Product to Cart,true,159
+1588019654684,1258,Add Product to Cart,true,113
+1588019654657,1302,Add Product to Cart,true,189
+1588019654841,1191,Add Product to Cart,true,91
+1588019654336,1708,Add Product 2 to Cart,true,292
+1588019655022,1025,Add Product to Cart,true,55
+1588019654664,1545,Add Product to Cart,true,112
+1588019654870,1382,Add Product 2 to Cart,true,82
+1588019654841,1447,Add Product to Cart,true,141
+1588019656046,265,Logout,true,60
+1588019655011,1346,Add Product to Cart,true,223
+1588019654878,1504,Add Product 2 to Cart,true,148
+1588019655944,530,List Products with different page,true,463
+1588019655857,617,List Products with different page,true,590
+1588019654795,1681,Add Product 2 to Cart,true,145
+1588019656253,223,Logout,true,37
+1588019656312,167,Home,true,167
+1588019656382,166,Logout,true,45
+1588019654906,1662,Add Product to Cart,true,262
+1588019655894,686,List Products with different page,true,657
+1588019656477,120,Home,true,120
+1588019656033,572,List Products with different page,true,528
+1588019656048,597,List Products with different page,true,530
+1588019655960,721,List Products with different page,true,694
+1588019655282,1438,Add Product 2 to Cart,true,133
+1588019655239,1491,Add Product 2 to Cart,true,200
+1588019656358,372,List Products with different page,true,308
+1588019655344,1435,Add Product 2 to Cart,true,180
+1588019656549,261,Home,true,261
+1588019656477,361,Logout,true,54
+1588019655747,1097,Add Product 2 to Cart,true,105
+1588019656479,392,Login,true,270
+1588019656209,670,List Products with different page,true,625
+1588019656288,691,List Products with different page,true,626
+1588019656721,272,Logout,true,92
+1588019656845,149,Logout,true,67
+1588019656780,245,Logout,true,32
+1588019656839,195,Home,true,195
+1588019656569,465,List Products with different page,true,420
+1588019656731,310,Logout,true,75
+1588019656995,82,Home,true,82
+1588019656995,86,Home,true,86
+1588019656597,538,Login,true,271
+1588019657026,121,Home,true,120
+1588019657043,115,Home,true,115
+1588019655674,1530,Add Product 2 to Cart,true,85
+1588019656872,340,List Products,true,293
+1588019655875,1409,Add Product 2 to Cart,true,158
+1588019657035,422,Login,true,224
+1588019657205,255,Logout,true,62
+1588019657285,214,Logout,true,32
+1588019657137,418,List Products,true,353
+1588019657461,130,Home,true,130
+1588019657501,112,Home,true,112
+1588019656811,852,Login,true,357
+1588019657082,589,Login,true,268
+1588019657078,622,Login,true,440
+1588019657159,616,Login,true,396
+1588019657148,640,Login,true,393
+1588019656646,1146,Add Product 2 to Cart,true,50
+1588019657458,406,List Products,true,349
+1588019657592,491,Login,true,251
+1588019657614,469,Login,true,225
+1588019657794,295,Logout,true,39
+1588019656475,1647,Add Product 2 to Cart,true,122
+1588019656682,1468,Add Product 2 to Cart,true,105
+1588019658090,87,Home,true,82
+1588019656475,1719,Add Product 2 to Cart,true,154
+1588019656606,1628,Add Product 2 to Cart,true,88
+1588019656581,1689,Add Product 2 to Cart,true,124
+1588019656731,1559,Add Product 2 to Cart,true,238
+1588019658150,151,Logout,true,46
+1588019657671,634,List Products,true,585
+1588019657665,643,List Products,true,595
+1588019658122,191,Logout,true,58
+1588019658195,142,Logout,true,68
+1588019657038,1324,Add Product 2 to Cart,true,180
+1588019657777,620,List Products,true,574
+1588019658235,185,Logout,true,60
+1588019657790,632,List Products,true,583
+1588019658314,112,Home,true,110
+1588019658302,130,Home,true,130
+1588019656880,1579,Add Product 2 to Cart,true,81
+1588019658291,199,Logout,true,32
+1588019658338,227,Home,true,227
+1588019658271,328,Logout,true,49
+1588019657700,910,List Products,true,863
+1588019658363,252,Logout,true,39
+1588019658083,544,List Products,true,476
+1588019658177,459,Login,true,273
+1588019658491,158,Home,true,158
+1588019658459,190,Logout,true,37
+1588019657215,1442,Look at Product,true,1421
+1588019656982,1691,Add Product 2 to Cart,true,73
+1588019658421,255,Home,true,255
+1588019658083,602,List Products,true,537
+1588019658600,125,Home,true,125
+1588019658616,121,Home,true,121
+1588019657559,1193,Look at Product,true,1171
+1588019658426,371,Login,true,236
+1588019658650,215,Home,true,215
+1588019658674,197,Logout,true,54
+1588019657865,1151,Look at Product,true,1126
+1588019658872,269,Home,true,267
+1588019658432,730,Login,true,573
+1588019658677,507,Login,true,383
+1588019658565,628,Login,true,435
+1588019658636,567,List Products,true,499
+1588019658737,478,Login,true,316
+1588019658726,497,Login,true,334
+1588019658650,573,Login,true,423
+1588019658866,437,Login,true,263
+1588019658308,1076,Look at Product,true,1050
+1588019658797,605,List Products,true,536
+1588019659141,607,Login,true,228
+1588019658423,1354,Look at Product,true,1326
+1588019658312,1468,Look at Product,true,1436
+1588019659163,642,List Products,true,586
+1588019659224,583,List Products,true,525
+1588019658398,1417,Look at Product,true,1393
+1588019659194,681,List Products,true,605
+1588019659224,658,List Products,true,593
+1588019658688,1195,Look at Product,true,1174
+1588019659216,709,List Products,true,640
+1588019659185,867,List Products,true,818
+1588019658611,1513,Look at Product,true,1490
+1588019659304,881,List Products,true,824
+1588019659750,576,List Products,true,505
+1588019658753,1578,Add Product to Cart,true,97
+1588019658658,1687,Add Product to Cart,true,167
+1588019658629,1803,Look at Product,true,1783
+1588019659206,1311,Look at Product,true,1283
+1588019660346,417,List Products with different page,true,374
+1588019659816,969,Add Product to Cart,true,66
+1588019659016,1772,Add Product to Cart,true,196
+1588019660331,537,List Products with different page,true,496
+1588019659926,970,Look at Product,true,944
+1588019659405,1555,Look at Product,true,1530
+1588019659778,1186,Add Product to Cart,true,187
+1588019659780,1216,Add Product to Cart,true,180
+1588019659884,1125,Add Product to Cart,true,69
+1588019659876,1160,Look at Product,true,1136
+1588019659808,1358,Look at Product,true,1333
+1588019659385,1785,Add Product to Cart,true,363
+1588019659809,1494,Look at Product,true,1469
+1588019660187,1125,Look at Product,true,1098
+1588019659883,1530,Look at Product,true,1505
+1588019660054,1364,Look at Product,true,1341
+1588019660124,1344,Add Product to Cart,true,216
+1588019660328,1152,Look at Product,true,1127
+1588019660433,1062,Add Product to Cart,true,126
+1588019660897,637,Add Product to Cart,true,103
+1588019660517,1144,Add Product to Cart,true,161
+1588019660789,903,List Products with different page,true,872
+1588019660997,703,List Products with different page,true,675
+1588019660785,919,List Products with different page,true,867
+1588019660964,757,List Products with different page,true,728
+1588019661468,261,List Products with different page,true,212
+1588019661495,240,List Products with different page,true,193
+1588019661009,743,List Products with different page,true,677
+1588019661171,698,List Products with different page,true,670
+1588019661535,367,List Products with different page,true,295
+1588019661661,310,List Products with different page,true,266
+1588019660766,1383,Add Product 2 to Cart,true,104
+1588019662150,265,Logout,true,47
+1588019660960,1471,Add Product to Cart,true,170
+1588019662415,118,Home,true,118
+1588019661037,1664,Add Product to Cart,true,667
+1588019660870,1840,Add Product 2 to Cart,true,101
+1588019662710,173,Logout,true,48
+1588019662533,470,Login,true,346
+1588019662431,602,List Products with different page,true,558
+1588019661305,1729,Add Product to Cart,true,544
+1588019661413,1632,Add Product to Cart,true,294
+1588019662884,276,Home,true,276
+1588019661419,1763,Add Product to Cart,true,382
+1588019661166,2055,Add Product to Cart,true,475
+1588019661722,1572,Add Product 2 to Cart,true,159
+1588019661312,2002,Add Product to Cart,true,705
+1588019661481,1841,Add Product to Cart,true,353
+1588019662701,632,List Products with different page,true,586
+1588019661871,1511,Add Product 2 to Cart,true,144
+1588019661729,1657,Add Product 2 to Cart,true,219
+1588019661736,1655,Add Product 2 to Cart,true,211
+1588019661753,1646,Add Product 2 to Cart,true,170
+1588019661693,1706,Add Product 2 to Cart,true,168
+1588019663004,455,List Products,true,410
+1588019663161,305,Login,true,117
+1588019663400,168,Logout,true,62
+1588019663383,190,Logout,true,33
+1588019661705,1871,Add Product 2 to Cart,true,232
+1588019663387,189,Logout,true,57
+1588019663392,186,Logout,true,70
+1588019663295,294,Logout,true,38
+1588019663400,204,Logout,true,37
+1588019661701,1936,Add Product 2 to Cart,true,212
+1588019663573,106,Home,true,105
+1588019663035,643,List Products with different page,true,598
+1588019663577,112,Home,true,112
+1588019663589,105,Home,true,105
+1588019663579,131,Home,true,131
+1588019661905,1814,Add Product 2 to Cart,true,85
+1588019661973,1748,Add Product 2 to Cart,true,175
+1588019663605,136,Home,true,136
+1588019663638,115,Logout,true,40
+1588019663577,280,Logout,true,29
+1588019663183,679,List Products with different page,true,634
+1588019663221,673,List Products with different page,true,602
+1588019663046,850,List Products with different page,true,804
+1588019663315,586,List Products with different page,true,522
+1588019663323,585,List Products with different page,true,539
+1588019663568,350,Home,true,349
+1588019663858,79,Home,true,79
+1588019663721,245,Logout,true,108
+1588019663966,133,Home,true,133
+1588019663719,400,Logout,true,75
+1588019663754,368,Home,true,364
+1588019663466,734,List Products,true,685
+1588019664119,98,Home,true,98
+1588019663035,1199,Add Product 2 to Cart,true,96
+1588019664235,93,Logout,true,31
+1588019663336,1049,Add Product 2 to Cart,true,119
+1588019663690,738,Login,true,655
+1588019664329,112,Home,true,112
+1588019663742,703,Login,true,606
+1588019663711,822,Login,true,647
+1588019663695,902,Login,true,683
+1588019663679,929,Login,true,651
+1588019663461,1147,Look at Product,true,1123
+1588019663920,704,Login,true,658
+1588019664386,303,Logout,true,38
+1588019663937,808,Login,true,679
+1588019664217,553,Login,true,470
+1588019664689,114,Home,true,114
+1588019664122,688,Login,true,572
+1588019664100,779,Login,true,599
+1588019664534,383,List Products,true,335
+1588019664441,493,Login,true,289
+1588019664428,588,List Products,true,539
+1588019664598,435,List Products,true,386
+1588019664810,246,List Products,true,198
+1588019663681,1400,Add Product 2 to Cart,true,209
+1588019664804,299,Login,true,115
+1588019663897,1220,Add Product 2 to Cart,true,148
+1588019664608,530,List Products,true,463
+1588019664446,708,List Products,true,639
+1588019664770,406,List Products,true,356
+1588019665081,103,Logout,true,38
+1588019663865,1324,Add Product 2 to Cart,true,196
+1588019664624,575,List Products,true,522
+1588019664745,513,List Products,true,460
+1588019664202,1071,Look at Product,true,1048
+1588019665117,181,Logout,true,39
+1588019665184,116,Home,true,116
+1588019664880,562,List Products,true,492
+1588019663903,1543,Add Product 2 to Cart,true,113
+1588019665299,156,Home,true,156
+1588019665189,290,Logout,true,45
+1588019663898,1636,Add Product 2 to Cart,true,133
+1588019664934,660,List Products,true,616
+1588019665301,311,Login,true,260
+1588019665104,508,List Products,true,471
+1588019665480,155,Home,true,155
+1588019665447,208,Logout,true,74
+1588019665535,137,Logout,true,35
+1588019665456,258,Login,true,169
+1588019663920,1903,Add Product 2 to Cart,true,256
+1588019664608,1231,Add Product to Cart,true,86
+1588019665656,201,Home,true,200
+1588019665824,105,Logout,true,36
+1588019665672,347,Home,true,347
+1588019665035,1049,Look at Product,true,1021
+1588019665929,227,Home,true,227
+1588019665858,310,Login,true,153
+1588019665612,592,List Products,true,546
+1588019665059,1180,Look at Product,true,1172
+1588019665445,961,Look at Product,true,933
+1588019665177,1239,Look at Product,true,1210
+1588019665636,797,Login,true,372
+1588019666019,429,Login,true,340
+1588019665715,750,List Products,true,704
+1588019665018,1457,Look at Product,true,1434
+1588019665840,670,List Products with different page,true,606
+1588019665157,1448,Look at Product,true,1423
+1588019665140,1475,Look at Product,true,1450
+1588019665200,1502,Look at Product,true,1477
+1588019664917,1885,Look at Product,true,1862
+1588019666156,679,Login,true,357
+1588019666168,700,List Products,true,655
+1588019666433,538,List Products,true,475
+1588019665260,1752,Look at Product,true,1728
+1588019666448,571,List Products,true,528
+1588019665274,1784,Add Product to Cart,true,146
+1588019665596,1472,Look at Product,true,1426
+1588019665614,1606,Look at Product,true,1561
+1588019666466,833,Look at Product,true,810
+1588019666836,591,List Products,true,547
+1588019666239,1217,Add Product to Cart,true,184
+1588019666206,1268,Look at Product,true,1181
+1588019667059,505,List Products with different page,true,460
+1588019666085,1505,Add Product to Cart,true,329
+1588019666511,1102,Add Product 2 to Cart,true,194
+1588019666476,1209,Add Product to Cart,true,122
+1588019666406,1294,Add Product to Cart,true,88
+1588019666416,1335,Add Product to Cart,true,71
+1588019667613,140,Logout,true,34
+1588019667753,83,Home,true,83
+1588019666606,1246,Add Product to Cart,true,81
+1588019666615,1245,Add Product to Cart,true,132
+1588019667457,463,List Products with different page,true,421
+1588019666972,994,Look at Product,true,969
+1588019667836,375,Login,true,169
+1588019666870,1359,Look at Product,true,1334
+1588019667686,556,List Products with different page,true,527
+1588019667591,690,List Products with different page,true,645
+1588019667069,1235,Add Product to Cart,true,125
+1588019667751,555,List Products with different page,true,511
+1588019667019,1299,Look at Product,true,1275
+1588019666703,1624,Add Product to Cart,true,162
+1588019667701,635,List Products with different page,true,591
+1588019666803,1596,Add Product to Cart,true,152
+1588019667012,1516,Add Product to Cart,true,137
+1588019667860,680,List Products with different page,true,638
+1588019667852,705,List Products with different page,true,655
+1588019667300,1346,Add Product to Cart,true,147
+1588019667220,1435,Add Product to Cart,true,66
+1588019667474,1261,Add Product to Cart,true,124
+1588019667429,1431,Look at Product,true,1409
+1588019668304,583,List Products with different page,true,520
+1588019668328,699,List Products with different page,true,659
+1588019667566,1473,Add Product 2 to Cart,true,151
+1588019668211,898,List Products,true,828
+1588019669040,114,Logout,true,35
+1588019668399,772,List Products with different page,true,746
+1588019667966,1269,Add Product to Cart,true,65
+1588019668529,720,List Products with different page,true,680
+1588019668735,621,List Products with different page,true,535
+1588019668647,728,List Products with different page,true,684
+1588019669154,285,Home,true,285
+1588019668655,931,List Products with different page,true,867
+1588019669236,359,List Products with different page,true,311
+1588019667921,1722,Add Product 2 to Cart,true,244
+1588019668337,1473,Add Product 2 to Cart,true,198
+1588019669439,378,Login,true,267
+1588019668229,1620,Add Product to Cart,true,77
+1588019669643,226,Logout,true,57
+1588019668283,1615,Add Product 2 to Cart,true,74
+1588019668243,1727,Add Product 2 to Cart,true,84
+1588019669811,189,Logout,true,31
+1588019668318,1704,Add Product to Cart,true,151
+1588019669869,174,Home,true,174
+1588019669970,117,Logout,true,60
+1588019670002,130,Home,true,130
+1588019669899,246,Logout,true,49
+1588019668542,1632,Add Product 2 to Cart,true,173
+1588019668309,1874,Add Product 2 to Cart,true,234
+1588019669849,368,List Products with different page,true,340
+1588019670087,142,Home,true,142
+1588019669818,470,List Products,true,425
+1588019670146,191,Home,true,191
+1588019669111,1232,Look at Product,true,1207
+1588019670183,192,Logout,true,36
+1588019670174,218,Logout,true,48
+1588019668860,1574,Add Product to Cart,true,190
+1588019669173,1268,Add Product 2 to Cart,true,315
+1588019670393,87,Home,true,87
+1588019669029,1493,Add Product 2 to Cart,true,80
+1588019668559,1987,Add Product 2 to Cart,true,109
+1588019668888,1669,Add Product 2 to Cart,true,159
+1588019670376,219,Home,true,219
+1588019670022,607,List Products with different page,true,582
+1588019670441,248,Logout,true,65
+1588019670547,157,Logout,true,38
+1588019670434,310,List Products with different page,true,266
+1588019669251,1541,Add Product 2 to Cart,true,95
+1588019670558,261,Logout,true,54
+1588019670043,776,Login,true,593
+1588019670705,115,Home,true,115
+1588019669596,1240,Add Product 2 to Cart,true,65
+1588019670690,175,Home,true,175
+1588019670792,121,Logout,true,29
+1588019670820,113,Home,true,113
+1588019669376,1566,Add Product 2 to Cart,true,205
+1588019670481,463,Login,true,287
+1588019669586,1407,Add Product 2 to Cart,true,114
+1588019670338,673,Login,true,418
+1588019670522,498,Logout,true,77
+1588019670132,889,Login,true,570
+1588019669358,1694,Add Product 2 to Cart,true,277
+1588019670229,825,Login,true,530
+1588019670595,474,Login,true,306
+1588019670837,247,Logout,true,55
+1588019671020,106,Home,true,106
+1588019670914,214,Home,true,214
+1588019670820,345,Login,true,223
+1588019670942,225,Logout,true,54
+1588019670993,220,Logout,true,68
+1588019671084,133,Home,true,133
+1588019670820,410,List Products,true,364
+1588019671052,211,Logout,true,70
+1588019671263,69,Home,true,68
+1588019671167,214,Home,true,214
+1588019670933,451,Login,true,248
+1588019671214,178,Home,true,178
+1588019671022,442,List Products,true,378
+1588019671011,514,List Products,true,470
+1588019670291,1269,Look at Product,true,1246
+1588019670866,774,Login,true,432
+1588019671217,431,Login,true,293
+1588019671129,534,Login,true,205
+1588019670944,760,List Products,true,715
+1588019671127,587,Login,true,396
+1588019670218,1516,Add Product 2 to Cart,true,270
+1588019670631,1124,Add Product 2 to Cart,true,113
+1588019671069,707,List Products,true,652
+1588019671165,614,List Products,true,565
+1588019670344,1445,Add Product to Cart,true,186
+1588019671384,409,List Products,true,360
+1588019671054,846,List Products,true,776
+1588019670746,1158,Add Product 2 to Cart,true,103
+1588019671757,155,Logout,true,34
+1588019671333,653,Login,true,481
+1588019671735,258,Logout,true,38
+1588019671393,617,Login,true,423
+1588019671381,629,Login,true,429
+1588019671912,210,Home,true,210
+1588019671994,145,Home,true,143
+1588019671904,241,Logout,true,65
+1588019671640,557,List Products,true,493
+1588019671789,483,List Products with different page,true,438
+1588019672145,173,Home,true,173
+1588019671231,1127,Look at Product,true,1104
+1588019671663,745,List Products,true,695
+1588019671715,694,List Products,true,645
+1588019671986,555,List Products,true,507
+1588019672140,533,Login,true,264
+1588019672122,553,Login,true,280
+1588019672318,373,Login,true,194
+1588019671649,1090,List Products,true,1022
+1588019672010,760,List Products,true,713
+1588019672010,899,List Products,true,834
+1588019671465,1541,Look at Product,true,1513
+1588019671706,1380,Look at Product,true,1353
+1588019671526,1589,Look at Product,true,1566
+1588019671560,1566,Add Product to Cart,true,196
+1588019672692,481,List Products,true,434
+1588019672674,620,List Products,true,549
+1588019671777,1579,Look at Product,true,1567
+1588019671780,1593,Look at Product,true,1570
+1588019671794,1659,Look at Product,true,1618
+1588019672675,778,List Products,true,692
+1588019672358,1233,Add Product to Cart,true,177
+1588019671901,1776,Look at Product,true,1734
+1588019672199,1525,Look at Product,true,1494
+1588019672541,1253,Look at Product,true,1220
+1588019673126,681,List Products with different page,true,621
+1588019672912,899,Look at Product,true,870
+1588019672410,1448,Look at Product,true,1420
+1588019672409,1496,Look at Product,true,1455
+1588019672772,1236,Look at Product,true,1212
+1588019672742,1341,Look at Product,true,1313
+1588019672275,1908,Add Product 2 to Cart,true,359
+1588019673006,1181,Add Product to Cart,true,130
+1588019673592,595,List Products with different page,true,565
+1588019674183,415,Logout,true,58
+1588019673175,1445,Look at Product,true,1422
+1588019673086,1578,Add Product to Cart,true,114
+1588019673116,1606,Add Product to Cart,true,127
+1588019674598,158,Home,true,158
+1588019674188,676,List Products with different page,true,643
+1588019673455,1429,Look at Product,true,1420
+1588019673298,1592,Look at Product,true,1560
+1588019673374,1537,Add Product to Cart,true,79
+1588019674757,356,Login,true,269
+1588019673906,1211,Add Product to Cart,true,224
+1588019673678,1441,Add Product to Cart,true,227
+1588019673357,1833,Add Product to Cart,true,182
+1588019674722,483,List Products with different page,true,438
+1588019673454,1781,Add Product to Cart,true,223
+1588019674664,571,List Products with different page,true,545
+1588019674009,1405,Add Product to Cart,true,85
+1588019673809,1648,Add Product 2 to Cart,true,213
+1588019674912,546,List Products with different page,true,519
+1588019673794,1675,Add Product to Cart,true,223
+1588019674083,1432,Add Product to Cart,true,133
+1588019673812,1706,Add Product to Cart,true,121
+1588019673725,1801,Add Product to Cart,true,110
+1588019675191,379,List Products with different page,true,337
+1588019675117,488,List Products with different page,true,446
+1588019675457,192,Logout,true,30
+1588019674189,1485,Add Product 2 to Cart,true,121
+1588019675120,601,List Products with different page,true,547
+1588019675235,506,List Products with different page,true,480
+1588019675113,640,List Products,true,575
+1588019673859,1944,Add Product to Cart,true,308
+1588019675649,181,Home,true,180
+1588019675515,347,List Products with different page,true,299
+1588019674620,1271,Add Product to Cart,true,174
+1588019675519,414,List Products with different page,true,385
+1588019675675,284,Logout,true,49
+1588019675415,639,List Products with different page,true,594
+1588019675470,626,List Products with different page,true,599
+1588019675959,211,Home,true,209
+1588019675526,677,List Products with different page,true,649
+1588019674884,1357,Add Product to Cart,true,170
+1588019674867,1376,Add Product 2 to Cart,true,41
+1588019675830,447,Login,true,266
+1588019676243,268,Logout,true,62
+1588019675803,713,List Products with different page,true,689
+1588019675892,634,List Products with different page,true,607
+1588019676170,484,Login,true,298
+1588019676512,179,Home,true,179
+1588019674891,1858,Add Product to Cart,true,266
+1588019676277,520,List Products,true,470
+1588019675242,1628,Add Product 2 to Cart,true,147
+1588019676241,677,List Products with different page,true,635
+1588019675207,1749,Add Product 2 to Cart,true,122
+1588019676692,341,Login,true,133
+1588019675460,1592,Add Product 2 to Cart,true,130
+1588019676655,401,List Products,true,326
+1588019676956,119,Logout,true,29
+1588019676870,213,Logout,true,34
+1588019675573,1586,Add Product 2 to Cart,true,217
+1588019677083,109,Home,true,109
+1588019677052,177,Logout,true,30
+1588019677075,213,Home,true,213
+1588019675606,1718,Add Product 2 to Cart,true,104
+1588019676750,572,List Products with different page,true,525
+1588019675756,1603,Look at Product,true,1579
+1588019677229,165,Home,true,165
+1588019675724,1716,Add Product 2 to Cart,true,211
+1588019677159,307,Logout,true,59
+1588019675865,1626,Add Product 2 to Cart,true,183
+1588019675934,1627,Add Product 2 to Cart,true,214
+1588019677466,113,Home,true,113
+1588019677325,270,Logout,true,63
+1588019677192,413,Login,true,254
+1588019676204,1440,Add Product 2 to Cart,true,94
+1588019677289,418,Login,true,360
+1588019677394,336,Login,true,262
+1588019677596,168,Home,true,168
+1588019675743,2028,Add Product 2 to Cart,true,245
+1588019677562,233,Logout,true,33
+1588019677440,358,Logout,true,37
+1588019677491,331,Logout,true,51
+1588019676097,1728,Add Product 2 to Cart,true,204
+1588019676056,1776,Add Product 2 to Cart,true,101
+1588019677033,815,List Products,true,762
+1588019676529,1341,Add Product 2 to Cart,true,172
+1588019677823,59,Home,true,59
+1588019677796,101,Home,true,101
+1588019677798,197,Home,true,197
+1588019676518,1492,Add Product 2 to Cart,true,92
+1588019677645,375,Logout,true,29
+1588019677832,190,Logout,true,37
+1588019677871,164,Logout,true,29
+1588019677772,274,Logout,true,60
+1588019677764,295,Login,true,203
+1588019676799,1281,Look at Product,true,1258
+1588019677579,520,Login,true,373
+1588019677826,293,Logout,true,43
+1588019678022,129,Home,true,128
+1588019678021,159,Home,true,159
+1588019677605,584,List Products,true,512
+1588019678011,190,Logout,true,69
+1588019678036,165,Home,true,163
+1588019678046,219,Home,true,219
+1588019678119,148,Home,true,148
+1588019677058,1242,Look at Product,true,1216
+1588019677731,653,List Products,true,606
+1588019676919,1479,Add Product 2 to Cart,true,77
+1588019678201,199,Home,true,199
+1588019677898,512,Login,true,330
+1588019677708,744,List Products,true,698
+1588019677882,598,Login,true,344
+1588019678060,489,List Products,true,441
+1588019677996,561,Login,true,479
+1588019678399,184,Logout,true,37
+1588019678100,584,List Products,true,537
+1588019678584,230,Home,true,230
+1588019677359,1464,Add Product to Cart,true,226
+1588019678181,649,Login,true,429
+1588019678151,682,Login,true,472
+1588019678201,634,Login,true,415
+1588019677850,1023,Look at Product,true,997
+1588019678268,606,Login,true,379
+1588019677325,1570,Add Product 2 to Cart,true,274
+1588019678410,493,List Products,true,447
+1588019678558,348,List Products,true,303
+1588019678265,733,Login,true,382
+1588019678401,599,Login,true,251
+1588019678480,557,List Products,true,511
+1588019678896,175,Logout,true,39
+1588019678191,934,Look at Product,true,908
+1588019679071,110,Home,true,110
+1588019678814,382,Login,true,223
+1588019678300,916,Add Product to Cart,true,126
+1588019678875,357,List Products,true,310
+1588019678080,1177,Add Product to Cart,true,87
+1588019678386,945,Look at Product,true,916
+1588019678833,502,List Products,true,452
+1588019679001,361,List Products,true,314
+1588019678823,718,List Products with different page,true,674
+1588019678835,746,List Products,true,675
+1588019679182,404,Login,true,184
+1588019678830,892,List Products,true,823
+1588019678454,1312,Look at Product,true,1286
+1588019679197,628,List Products,true,580
+1588019678999,832,List Products,true,763
+1588019679257,646,List Products with different page,true,604
+1588019678551,1359,Look at Product,true,1337
+1588019678908,1011,Look at Product,true,986
+1588019679216,758,List Products with different page,true,712
+1588019678904,1087,Look at Product,true,1062
+1588019678873,1321,Add Product to Cart,true,170
+1588019679587,673,List Products,true,597
+1588019679040,1228,Look at Product,true,1208
+1588019678686,1678,Look at Product,true,1656
+1588019679126,1512,Add Product to Cart,true,110
+1588019680195,509,List Products with different page,true,483
+1588019679233,1513,Look at Product,true,1487
+1588019679332,1520,Add Product to Cart,true,303
+1588019679364,1541,Look at Product,true,1533
+1588019679832,1117,Look at Product,true,1026
+1588019679337,1637,Look at Product,true,1606
+1588019679583,1402,Look at Product,true,1381
+1588019679544,1532,Add Product 2 to Cart,true,183
+1588019679725,1428,Look at Product,true,1402
+1588019680639,520,List Products with different page,true,427
+1588019679919,1316,Add Product to Cart,true,162
+1588019679767,1515,Add Product to Cart,true,165
+1588019680852,434,List Products with different page,true,371
+1588019681077,213,Logout,true,38
+1588019679991,1318,Add Product to Cart,true,64
+1588019679826,1529,Look at Product,true,1503
+1588019680262,1129,Look at Product,true,1101
+1588019679977,1420,Add Product 2 to Cart,true,208
+1588019681290,113,Home,true,112
+1588019679904,1548,Add Product 2 to Cart,true,215
+1588019679910,1595,Add Product to Cart,true,269
+1588019680269,1238,Add Product to Cart,true,135
+1588019681398,177,Logout,true,57
+1588019681454,137,Logout,true,39
+1588019681592,80,Home,true,80
+1588019680365,1341,Add Product to Cart,true,273
+1588019681403,337,Login,true,202
+1588019681575,196,Home,true,196
+1588019681235,536,List Products with different page,true,499
+1588019681282,569,List Products with different page,true,539
+1588019680746,1162,Add Product to Cart,true,143
+1588019681309,602,List Products with different page,true,524
+1588019681507,474,List Products with different page,true,422
+1588019681673,327,Login,true,220
+1588019681160,840,Add Product 2 to Cart,true,92
+1588019681505,513,List Products with different page,true,457
+1588019680705,1353,Add Product 2 to Cart,true,160
+1588019680986,1100,Add Product to Cart,true,154
+1588019681771,326,Login,true,229
+1588019680949,1176,Add Product to Cart,true,133
+1588019681153,972,Add Product to Cart,true,174
+1588019682000,241,Logout,true,46
+1588019682058,195,Logout,true,81
+1588019680906,1354,Add Product to Cart,true,181
+1588019681707,578,List Products with different page,true,530
+1588019680974,1390,Add Product to Cart,true,234
+1588019682000,412,List Products,true,381
+1588019681909,542,List Products with different page,true,497
+1588019681740,721,List Products,true,671
+1588019682097,383,List Products,true,335
+1588019681287,1214,Add Product 2 to Cart,true,173
+1588019681391,1111,Add Product to Cart,true,153
+1588019681355,1149,Add Product to Cart,true,69
+1588019682242,267,Home,true,267
+1588019682253,261,Home,true,261
+1588019682086,477,List Products with different page,true,432
+1588019682126,649,List Products with different page,true,597
+1588019682364,438,List Products with different page,true,404
+1588019682126,700,List Products with different page,true,612
+1588019682502,348,Logout,true,61
+1588019682261,613,List Products with different page,true,585
+1588019682509,430,Login,true,308
+1588019682514,462,Login,true,305
+1588019682851,127,Home,true,125
+1588019681852,1353,Add Product 2 to Cart,true,185
+1588019682978,230,Login,true,109
+1588019682505,765,List Products with different page,true,631
+1588019681912,1393,Add Product 2 to Cart,true,103
+1588019682503,800,List Products with different page,true,649
+1588019682019,1317,Add Product 2 to Cart,true,148
+1588019683205,150,Logout,true,83
+1588019681772,1593,Add Product 2 to Cart,true,86
+1588019682976,427,List Products,true,381
+1588019682939,512,List Products,true,467
+1588019682288,1169,Add Product 2 to Cart,true,72
+1588019681982,1489,Add Product 2 to Cart,true,118
+1588019683305,180,Logout,true,29
+1588019683336,195,Logout,true,29
+1588019683366,172,Logout,true,48
+1588019683356,182,Home,true,180
+1588019683485,111,Home,true,111
+1588019683457,143,Logout,true,76
+1588019683538,71,Home,true,71
+1588019683471,214,Logout,true,70
+1588019683532,182,Home,true,182
+1588019682482,1244,Look at Product,true,1219
+1588019683208,522,List Products,true,448
+1588019682413,1351,Look at Product,true,1288
+1588019683600,164,Home,true,164
+1588019683685,80,Home,true,80
+1588019682463,1362,Look at Product,true,1336
+1588019682803,1123,Add Product 2 to Cart,true,163
+1588019682453,1500,Add Product 2 to Cart,true,98
+1588019682827,1214,Add Product 2 to Cart,true,108
+1588019683597,546,Login,true,416
+1588019683927,247,Logout,true,112
+1588019683610,580,Login,true,345
+1588019683538,666,Login,true,417
+1588019683766,442,Login,true,283
+1588019683403,811,Look at Product,true,785
+1588019683953,263,Logout,true,50
+1588019684041,216,Logout,true,36
+1588019683715,553,Login,true,393
+1588019682874,1408,Add Product 2 to Cart,true,106
+1588019683764,524,Login,true,338
+1588019682566,1766,Add Product 2 to Cart,true,153
+1588019684175,157,Home,true,157
+1588019684216,120,Home,true,120
+1588019682779,1653,Add Product 2 to Cart,true,97
+1588019684332,223,Logout,true,54
+1588019684257,300,Home,true,298
+1588019684433,191,Logout,true,55
+1588019684282,348,Logout,true,42
+1588019684624,35,Home,true,35
+1588019684556,128,Home,true,128
+1588019684204,492,List Products,true,445
+1588019684630,97,Home,true,97
+1588019684144,649,List Products,true,585
+1588019684190,614,List Products,true,567
+1588019684337,487,Login,true,360
+1588019684332,568,Login,true,365
+1588019684268,669,List Products,true,607
+1588019684288,666,List Products,true,595
+1588019683306,1650,Add Product 2 to Cart,true,69
+1588019684557,427,Login,true,272
+1588019683452,1540,Look at Product,true,1513
+1588019684684,310,Login,true,216
+1588019684208,828,List Products,true,757
+1588019684660,411,Login,true,292
+1588019684727,362,Login,true,221
+1588019683764,1414,Add Product to Cart,true,215
+1588019683272,2009,Add Product 2 to Cart,true,124
+1588019684956,334,Logout,true,48
+1588019683825,1471,Add Product to Cart,true,82
+1588019684984,452,List Products,true,403
+1588019683727,1752,Add Product to Cart,true,115
+1588019684994,508,List Products,true,432
+1588019683731,1787,Look at Product,true,1761
+1588019684901,627,List Products,true,581
+1588019684824,731,List Products,true,687
+1588019685291,266,Home,true,266
+1588019685281,283,Logout,true,30
+1588019685071,549,List Products,true,505
+1588019685089,542,List Products,true,474
+1588019685178,495,List Products with different page,true,432
+1588019685565,134,Home,true,134
+1588019684805,1217,Look at Product,true,1195
+1588019684214,1833,Add Product to Cart,true,206
+1588019685480,580,List Products with different page,true,535
+1588019685296,797,List Products with different page,true,754
+1588019684697,1413,Look at Product,true,1388
+1588019685557,630,Login,true,405
+1588019685700,490,Login,true,355
+1588019684794,1406,Look at Product,true,1382
+1588019684955,1280,Look at Product,true,1251
+1588019685036,1234,Look at Product,true,1202
+1588019684937,1349,Look at Product,true,1320
+1588019684992,1499,Add Product to Cart,true,111
+1588019685556,1077,Look at Product,true,1055
+1588019686046,613,List Products with different page,true,586
+1588019685437,1250,Look at Product,true,1225
+1588019686190,548,List Products,true,475
+1588019686187,626,List Products,true,558
+1588019686490,443,List Products with different page,true,417
+1588019685504,1432,Look at Product,true,1406
+1588019685632,1346,Look at Product,true,1322
+1588019685518,1520,Add Product to Cart,true,128
+1588019685674,1402,Add Product 2 to Cart,true,288
+1588019685530,1573,Look at Product,true,1550
+1588019685621,1567,Look at Product,true,1547
+1588019686199,1163,Add Product to Cart,true,181
+1588019687076,313,Logout,true,40
+1588019686021,1448,Add Product to Cart,true,126
+1588019686060,1421,Add Product 2 to Cart,true,157
+1588019686270,1226,Add Product to Cart,true,117
+1588019686285,1222,Add Product to Cart,true,239
+1588019686110,1527,Add Product to Cart,true,180
+1588019687389,257,Home,true,257
+1588019687038,667,List Products with different page,true,623
+1588019686234,1577,Add Product to Cart,true,177
+1588019687481,366,Logout,true,29
+1588019686813,1051,Look at Product,true,1024
+1588019687362,528,List Products with different page,true,485
+1588019686632,1295,Add Product to Cart,true,174
+1588019687848,90,Home,true,90
+1588019686935,1033,Add Product to Cart,true,177
+1588019686686,1315,Add Product to Cart,true,159
+1588019687507,507,List Products with different page,true,474
+1588019686740,1287,Look at Product,true,1261
+1588019687469,673,List Products with different page,true,596
+1588019687496,654,List Products with different page,true,612
+1588019686094,2096,Add Product 2 to Cart,true,131
+1588019687646,561,Login,true,368
+1588019686660,1628,Add Product 2 to Cart,true,131
+1588019688001,352,List Products with different page,true,308
+1588019687637,749,List Products with different page,true,719
+1588019688190,205,Logout,true,65
+1588019687811,600,List Products with different page,true,549
+1588019687927,492,List Products with different page,true,448
+1588019686977,1595,Add Product to Cart,true,143
+1588019687939,646,Login,true,402
+1588019688288,310,Logout,true,32
+1588019687969,689,List Products with different page,true,643
+1588019686933,1815,Add Product 2 to Cart,true,159
+1588019688598,191,Home,true,189
+1588019688396,402,Home,true,402
+1588019688748,140,Logout,true,42
+1588019687102,1858,Add Product to Cart,true,118
+1588019688888,98,Home,true,98
+1588019688207,819,List Products,true,773
+1588019687865,1211,Add Product to Cart,true,111
+1588019688798,358,Login,true,158
+1588019688572,621,List Products with different page,true,578
+1588019688585,654,List Products,true,591
+1588019688986,291,Login,true,227
+1588019687188,2193,Add Product to Cart,true,144
+1588019688790,611,Login,true,284
+1588019688015,1489,Add Product 2 to Cart,true,100
+1588019688354,1242,Add Product 2 to Cart,true,58
+1588019687707,1933,Add Product 2 to Cart,true,236
+1588019689504,143,Logout,true,57
+1588019689647,52,Home,true,52
+1588019688412,1313,Add Product 2 to Cart,true,218
+1588019689596,147,Logout,true,56
+1588019688961,801,List Products with different page,true,747
+1588019688143,1639,Add Product 2 to Cart,true,88
+1588019689725,134,Logout,true,37
+1588019687891,1971,Add Product 2 to Cart,true,94
+1588019689640,225,Logout,true,31
+1588019689743,144,Home,true,143
+1588019689401,509,List Products,true,453
+1588019688151,1773,Add Product 2 to Cart,true,213
+1588019689277,657,List Products,true,606
+1588019688028,1933,Add Product to Cart,true,260
+1588019688387,1582,Add Product 2 to Cart,true,235
+1588019689860,111,Home,true,109
+1588019689782,196,Logout,true,38
+1588019689863,124,Logout,true,64
+1588019689979,86,Home,true,86
+1588019689077,1035,List Products with different page,true,991
+1588019689866,267,Home,true,267
+1588019689699,440,Login,true,232
+1588019689156,1004,List Products,true,960
+1588019688421,1749,Add Product 2 to Cart,true,306
+1588019689925,245,Logout,true,38
+1588019689381,827,List Products with different page,true,762
+1588019690171,49,Home,true,49
+1588019689969,260,Logout,true,46
+1588019689239,997,Look at Product,true,971
+1588019689988,260,Home,true,258
+1588019689961,412,List Products with different page,true,365
+1588019690230,160,Home,true,160
+1588019690170,268,Logout,true,33
+1588019688659,1844,Add Product 2 to Cart,true,175
+1588019690438,89,Home,true,89
+1588019689888,693,Login,true,606
+1588019689972,635,Login,true,527
+1588019690161,459,Look at Product,true,436
+1588019690503,129,Logout,true,50
+1588019690140,492,List Products,true,445
+1588019690633,52,Home,true,50
+1588019689027,1669,Look at Product,true,1645
+1588019689194,1516,Add Product 2 to Cart,true,64
+1588019690134,698,Login,true,498
+1588019690710,122,Logout,true,44
+1588019690248,586,Login,true,435
+1588019690065,798,Login,true,587
+1588019690220,668,Login,true,465
+1588019690391,545,Login,true,307
+1588019690527,439,Login,true,260
+1588019690833,166,Home,true,166
+1588019690685,405,Login,true,265
+1588019689935,1161,Look at Product,true,1136
+1588019689911,1322,Look at Product,true,1296
+1588019690607,637,List Products,true,588
+1588019689763,1496,Add Product 2 to Cart,true,139
+1588019690889,381,List Products,true,310
+1588019690581,713,List Products,true,663
+1588019690836,463,List Products,true,415
+1588019690114,1230,Add Product 2 to Cart,true,145
+1588019690967,392,List Products,true,324
+1588019690833,540,List Products,true,495
+1588019690865,537,List Products,true,488
+1588019690999,450,Login,true,157
+1588019691260,199,Logout,true,39
+1588019690236,1232,Add Product to Cart,true,123
+1588019690209,1265,Add Product 2 to Cart,true,144
+1588019691345,153,Logout,true,45
+1588019690937,577,List Products,true,530
+1588019691091,467,List Products,true,422
+1588019691498,75,Home,true,73
+1588019691475,120,Logout,true,50
+1588019691460,137,Home,true,137
+1588019691595,111,Home,true,111
+1588019690696,1026,Add Product to Cart,true,129
+1588019690620,1201,Add Product to Cart,true,74
+1588019691597,250,Login,true,155
+1588019691573,310,Login,true,210
+1588019690375,1515,Add Product 2 to Cart,true,98
+1588019691450,443,List Products,true,362
+1588019690633,1268,Look at Product,true,1241
+1588019691892,131,Logout,true,37
+1588019691707,332,Login,true,174
+1588019691469,588,List Products with different page,true,542
+1588019691724,419,List Products with different page,true,388
+1588019691360,795,Look at Product,true,769
+1588019692023,172,Home,true,172
+1588019691402,919,Look at Product,true,852
+1588019691246,1141,Look at Product,true,1012
+1588019691822,565,List Products with different page,true,510
+1588019691847,584,List Products,true,495
+1588019691271,1167,Look at Product,true,1022
+1588019691883,563,List Products,true,534
+1588019692196,304,Login,true,186
+1588019691234,1274,Add Product to Cart,true,202
+1588019691098,1415,Add Product to Cart,true,170
+1588019691515,1038,Look at Product,true,1002
+1588019691374,1185,Look at Product,true,1151
+1588019691301,1258,Look at Product,true,1230
+1588019691297,1264,Look at Product,true,1243
+1588019691560,1019,Look at Product,true,993
+1588019692039,557,List Products,true,514
+1588019692500,428,List Products,true,383
+1588019691895,1038,Look at Product,true,1013
+1588019692509,498,List Products with different page,true,471
+1588019692058,971,Add Product 2 to Cart,true,83
+1588019692145,917,Add Product 2 to Cart,true,67
+1588019692513,639,List Products with different page,true,611
+1588019692432,765,Look at Product,true,740
+1588019693029,172,Logout,true,53
+1588019692156,1051,Add Product to Cart,true,141
+1588019691902,1314,Add Product to Cart,true,194
+1588019693202,58,Home,true,58
+1588019693063,206,Logout,true,53
+1588019693270,90,Home,true,90
+1588019692387,984,Add Product to Cart,true,111
+1588019692452,1013,Look at Product,true,947
+1588019692322,1156,Add Product to Cart,true,146
+1588019693261,221,Login,true,125
+1588019692389,1113,Add Product 2 to Cart,true,111
+1588019692438,1081,Add Product to Cart,true,75
+1588019692562,1120,Add Product to Cart,true,237
+1588019692580,1136,Add Product to Cart,true,173
+1588019692560,1160,Add Product to Cart,true,230
+1588019693503,221,Logout,true,50
+1588019693361,370,Login,true,154
+1588019693216,550,List Products with different page,true,519
+1588019692553,1241,Add Product to Cart,true,207
+1588019693207,609,List Products with different page,true,530
+1588019693724,136,Home,true,136
+1588019692933,936,Add Product to Cart,true,70
+1588019692598,1322,Look at Product,true,1296
+1588019693479,456,List Products with different page,true,381
+1588019693154,826,Add Product 2 to Cart,true,101
+1588019693197,783,Add Product to Cart,true,42
+1588019693008,988,Add Product 2 to Cart,true,71
+1588019692559,1462,Add Product to Cart,true,243
+1588019692929,1130,Look at Product,true,1088
+1588019693483,593,List Products,true,503
+1588019693465,628,Add Product to Cart,true,112
+1588019693996,180,Logout,true,81
+1588019693720,454,List Products with different page,true,395
+1588019693794,396,List Products with different page,true,370
+1588019693372,818,List Products with different page,true,737
+1588019693981,225,Logout,true,154
+1588019693717,493,List Products with different page,true,453
+1588019693520,700,List Products with different page,true,627
+1588019694177,62,Home,true,62
+1588019693860,426,Login,true,310
+1588019693732,593,List Products,true,542
+1588019693682,649,List Products with different page,true,605
+1588019694206,135,Home,true,135
+1588019694021,359,List Products with different page,true,315
+1588019694094,304,List Products with different page,true,296
+1588019693870,617,List Products with different page,true,531
+1588019693981,690,List Products with different page,true,605
+1588019694342,404,Login,true,313
+1588019693768,1007,Add Product 2 to Cart,true,51
+1588019694239,537,Login,true,377
+1588019694775,115,Logout,true,60
+1588019694286,680,List Products,true,635
+1588019694891,148,Home,true,143
+1588019694078,1032,Look at Product,true,1006
+1588019693817,1364,Add Product 2 to Cart,true,82
+1588019694327,886,Look at Product,true,864
+1588019695039,183,Login,true,96
+1588019693920,1338,Add Product to Cart,true,112
+1588019695182,109,Logout,true,38
+1588019694777,522,List Products,true,452
+1588019693936,1429,Add Product 2 to Cart,true,78
+1588019694211,1234,Add Product 2 to Cart,true,86
+1588019694192,1274,Add Product 2 to Cart,true,97
+1588019695292,183,Home,true,183
+1588019694222,1280,Add Product 2 to Cart,true,163
+1588019695223,296,List Products,true,248
+1588019695366,201,Logout,true,107
+1588019695445,130,Logout,true,57
+1588019694747,847,List Products,true,801
+1588019695502,107,Logout,true,39
+1588019695467,157,Logout,true,64
+1588019695259,408,List Products with different page,true,382
+1588019695575,120,Home,true,119
+1588019694382,1340,Add Product 2 to Cart,true,154
+1588019695567,174,Home,true,173
+1588019695625,118,Home,true,118
+1588019695610,138,Home,true,138
+1588019694177,1597,Add Product 2 to Cart,true,202
+1588019694192,1624,Add Product 2 to Cart,true,169
+1588019695476,373,Login,true,196
+1588019694674,1196,Add Product 2 to Cart,true,36
+1588019694059,1832,Add Product to Cart,true,120
+1588019695722,215,Logout,true,68
+1588019694400,1546,Add Product 2 to Cart,true,90
+1588019694332,1617,Add Product 2 to Cart,true,98
+1588019695774,189,Logout,true,68
+1588019695938,49,Home,true,49
+1588019695110,902,Add Product to Cart,true,210
+1588019695963,49,Home,true,49
+1588019694967,1092,Look at Product,true,1066
+1588019695946,116,Logout,true,36
+1588019695743,348,Login,true,267
+1588019695748,358,Login,true,258
+1588019695817,294,Logout,true,53
+1588019694489,1634,Add Product 2 to Cart,true,193
+1588019695741,416,Login,true,251
+1588019695950,275,Logout,true,80
+1588019695871,354,Logout,true,42
+1588019696062,176,Home,true,176
+1588019695696,555,Login,true,316
+1588019696012,338,Login,true,282
+1588019696111,244,Home,true,242
+1588019695214,1145,Add Product to Cart,true,96
+1588019696225,147,Home,true,147
+1588019695849,521,List Products,true,474
+1588019695987,442,Login,true,268
+1588019696123,308,Logout,true,52
+1588019696225,238,Home,true,237
+1588019696431,151,Home,true,151
+1588019695891,710,List Products with different page,true,661
+1588019696106,497,List Products,true,445
+1588019696157,481,List Products,true,432
+1588019695302,1460,Look at Product,true,1433
+1588019695522,1282,Look at Product,true,1259
+1588019695597,1216,Look at Product,true,1190
+1588019696238,680,Login,true,272
+1588019696355,565,Login,true,407
+1588019696373,551,Login,true,375
+1588019696360,587,List Products with different page,true,553
+1588019696012,943,List Products with different page,true,897
+1588019696430,527,List Products,true,477
+1588019696092,883,List Products,true,823
+1588019696351,634,List Products,true,588
+1588019696251,765,List Products,true,720
+1588019696583,604,Login,true,457
+1588019695669,1520,Add Product 2 to Cart,true,96
+1588019696463,842,Login,true,577
+1588019696924,434,List Products,true,388
+1588019697190,189,Logout,true,91
+1588019696919,527,List Products,true,460
+1588019696920,529,List Products,true,461
+1588019696604,907,Look at Product,true,874
+1588019697379,279,Home,true,279
+1588019696060,1712,Add Product to Cart,true,181
+1588019696640,1260,Look at Product,true,1233
+1588019696373,1538,Look at Product,true,1511
+1588019696602,1315,Add Product 2 to Cart,true,117
+1588019697306,653,List Products,true,605
+1588019697658,330,Login,true,178
+1588019697187,870,List Products,true,815
+1588019696763,1305,Add Product to Cart,true,194
+1588019697918,194,Logout,true,63
+1588019697017,1177,Look at Product,true,1154
+1588019696976,1283,Look at Product,true,1260
+1588019698113,156,Home,true,156
+1588019696805,1510,Add Product to Cart,true,150
+1588019696814,1569,Add Product to Cart,true,138
+1588019696986,1407,Look at Product,true,1384
+1588019696958,1443,Look at Product,true,1419
+1588019697773,655,List Products with different page,true,628
+1588019697360,1082,Look at Product,true,1058
+1588019697989,470,List Products,true,420
+1588019696948,1604,Add Product 2 to Cart,true,83
+1588019698270,290,Login,true,165
+1588019697449,1189,Look at Product,true,1168
+1588019698315,335,List Products with different page,true,289
+1588019698553,157,Logout,true,53
+1588019696956,1774,Add Product 2 to Cart,true,219
+1588019698730,97,Logout,true,36
+1588019698069,770,List Products with different page,true,725
+1588019697912,962,Add Product to Cart,true,148
+1588019698711,166,Home,true,165
+1588019698383,505,List Products with different page,true,476
+1588019697447,1456,Look at Product,true,1429
+1588019698827,141,Home,true,141
+1588019698058,941,Look at Product,true,916
+1588019697512,1549,Add Product to Cart,true,70
+1588019698877,277,Login,true,215
+1588019698560,608,List Products,true,546
+1588019698969,224,Login,true,147
+1588019697901,1404,Add Product to Cart,true,90
+1588019698402,963,Add Product to Cart,true,64
+1588019697959,1421,Look at Product,true,1397
+1588019698875,520,List Products with different page,true,473
+1588019698260,1154,Add Product to Cart,true,102
+1588019698195,1255,Add Product to Cart,true,180
+1588019699154,522,List Products,true,455
+1588019698394,1294,Add Product to Cart,true,56
+1588019698461,1321,Look at Product,true,1298
+1588019698442,1438,Add Product to Cart,true,150
+1588019698651,1271,Add Product 2 to Cart,true,70
+1588019699062,860,List Products with different page,true,814
+1588019698639,1316,Add Product to Cart,true,145
+1588019698431,1524,Add Product 2 to Cart,true,70
+1588019699366,606,List Products with different page,true,580
+1588019699451,527,List Products with different page,true,500
+1588019699193,864,List Products,true,794
+1588019699955,251,Logout,true,36
+1588019699171,1090,Look at Product,true,1067
+1588019699689,581,List Products with different page,true,534
+1588019698904,1420,Add Product to Cart,true,121
+1588019699922,427,Logout,true,58
+1588019699306,1116,List Products with different page,true,1087
+1588019700207,228,Home,true,228
+1588019699955,482,List Products with different page,true,436
+1588019700349,123,Home,true,123
+1588019699881,607,List Products with different page,true,565
+1588019698842,1679,Add Product 2 to Cart,true,103
+1588019699415,1124,List Products with different page,true,1097
+1588019699000,1570,Add Product to Cart,true,136
+1588019698890,1712,Add Product 2 to Cart,true,91
+1588019700522,120,Logout,true,30
+1588019700643,43,Home,true,43
+1588019700472,443,Login,true,222
+1588019700603,312,Logout,true,32
+1588019700436,483,Login,true,295
+1588019700325,644,List Products with different page,true,590
+1588019699677,1296,Look at Product,true,1272
+1588019700915,72,Home,true,71
+1588019700687,309,Login,true,232
+1588019700571,442,List Products with different page,true,394
+1588019699397,1621,Add Product 2 to Cart,true,305
+1588019699381,1686,Add Product to Cart,true,154
+1588019699782,1294,Add Product to Cart,true,190
+1588019701018,102,Logout,true,53
+1588019699924,1228,Add Product 2 to Cart,true,244
+1588019699979,1222,Add Product 2 to Cart,true,146
+1588019700262,1002,Add Product to Cart,true,160
+1588019700061,1207,Look at Product,true,1199
+1588019699973,1309,Add Product 2 to Cart,true,184
+1588019701121,223,Home,true,223
+1588019701201,264,Logout,true,55
+1588019700987,479,Login,true,203
+1588019701152,337,Logout,true,34
+1588019700919,581,List Products,true,535
+1588019701282,220,Logout,true,51
+1588019700424,1093,Add Product 2 to Cart,true,93
+1588019701076,461,List Products with different page,true,433
+1588019700271,1283,Add Product 2 to Cart,true,143
+1588019701465,95,Home,true,95
+1588019701264,333,List Products with different page,true,292
+1588019701517,127,Logout,true,43
+1588019700915,739,List Products,true,688
+1588019701554,104,Logout,true,43
+1588019700997,663,List Products,true,616
+1588019700491,1193,Add Product 2 to Cart,true,131
+1588019701502,191,Home,true,191
+1588019701345,355,Login,true,181
+1588019700541,1162,Add Product 2 to Cart,true,133
+1588019701490,259,Home,true,259
+1588019701068,695,List Products with different page,true,669
+1588019701659,133,Home,true,133
+1588019701645,150,Home,true,150
+1588019701703,160,Logout,true,36
+1588019701560,432,Login,true,247
+1588019701685,310,Logout,true,29
+1588019700974,1049,Add Product to Cart,true,117
+1588019701467,566,List Products,true,520
+1588019701995,88,Home,true,88
+1588019701863,227,Home,true,227
+1588019701795,371,Login,true,279
+1588019701693,482,Login,true,379
+1588019701792,425,Login,true,283
+1588019701749,472,Login,true,325
+1588019700439,1815,Add Product 2 to Cart,true,168
+1588019701268,1071,Add Product to Cart,true,188
+1588019702084,368,Login,true,206
+1588019702091,391,Login,true,228
+1588019702254,246,Logout,true,65
+1588019701701,810,List Products,true,743
+1588019700971,1542,Add Product 2 to Cart,true,113
+1588019701015,1549,Add Product 2 to Cart,true,139
+1588019702500,68,Home,true,68
+1588019702167,419,List Products,true,393
+1588019701992,622,List Products,true,572
+1588019702023,625,List Products with different page,true,581
+1588019701598,1073,Add Product 2 to Cart,true,68
+1588019702564,154,Logout,true,31
+1588019702513,220,Logout,true,33
+1588019702217,550,List Products,true,523
+1588019701501,1272,Look at Product,true,1249
+1588019702222,593,List Products,true,524
+1588019702719,103,Home,true,103
+1588019702733,117,Home,true,117
+1588019702671,202,Logout,true,86
+1588019702176,710,List Products,true,664
+1588019702339,551,List Products with different page,true,503
+1588019702874,78,Home,true,78
+1588019702452,569,List Products,true,542
+1588019702483,582,List Products,true,540
+1588019702568,509,Login,true,430
+1588019701655,1440,Look at Product,true,1416
+1588019702850,245,Login,true,161
+1588019701538,1648,Add Product 2 to Cart,true,110
+1588019702822,375,Login,true,199
+1588019701765,1474,Add Product 2 to Cart,true,146
+1588019702952,287,Login,true,169
+1588019702037,1223,Look at Product,true,1195
+1588019701662,1677,Look at Product,true,1598
+1588019703187,172,Logout,true,63
+1588019702615,753,Look at Product,true,731
+1588019703239,180,Logout,true,94
+1588019703095,330,List Products,true,284
+1588019703360,148,Home,true,148
+1588019703078,434,List Products,true,388
+1588019703419,135,Home,true,135
+1588019702769,816,Look at Product,true,748
+1588019703239,443,List Products,true,399
+1588019703198,535,List Products,true,467
+1588019702512,1257,Look at Product,true,1232
+1588019702648,1149,Add Product 2 to Cart,true,148
+1588019702891,928,Add Product 2 to Cart,true,155
+1588019702587,1287,Look at Product,true,1242
+1588019703797,193,Logout,true,55
+1588019703555,436,Login,true,282
+1588019703819,174,Logout,true,60
+1588019703509,486,Login,true,380
+1588019702817,1228,Look at Product,true,1202
+1588019703993,87,Home,true,87
+1588019703990,116,Home,true,116
+1588019702773,1341,Add Product to Cart,true,288
+1588019702887,1270,Look at Product,true,1245
+1588019703023,1140,Look at Product,true,1077
+1588019703426,827,Look at Product,true,800
+1588019703067,1308,Look at Product,true,1241
+1588019704106,290,Login,true,141
+1588019703368,1037,Add Product to Cart,true,73
+1588019704080,344,Login,true,173
+1588019703995,494,List Products,true,427
+1588019703339,1260,Add Product to Cart,true,96
+1588019703260,1382,Add Product to Cart,true,104
+1588019704115,546,List Products with different page,true,517
+1588019703095,1575,Add Product to Cart,true,236
+1588019703992,688,List Products,true,642
+1588019703513,1194,Look at Product,true,1171
+1588019703586,1200,Add Product to Cart,true,118
+1588019703684,1137,Look at Product,true,1114
+1588019704600,236,List Products with different page,true,211
+1588019704396,468,List Products,true,417
+1588019703875,1054,Add Product to Cart,true,105
+1588019704406,559,List Products with different page,true,534
+1588019704424,557,List Products,true,512
+1588019703770,1226,Add Product to Cart,true,167
+1588019703735,1344,Look at Product,true,1319
+1588019704643,447,List Products with different page,true,420
+1588019704671,547,List Products with different page,true,503
+1588019704929,379,List Products with different page,true,313
+1588019704046,1323,Add Product to Cart,true,167
+1588019704253,1150,Add Product to Cart,true,124
+1588019704163,1356,Add Product to Cart,true,124
+1588019704787,782,List Products with different page,true,693
+1588019704996,573,List Products with different page,true,506
+1588019704490,1085,Look at Product,true,1053
+1588019705403,324,List Products with different page,true,253
+1588019704376,1439,Add Product to Cart,true,262
+1588019705369,549,List Products with different page,true,482
+1588019704708,1260,Add Product to Cart,true,221
+1588019704663,1311,Add Product 2 to Cart,true,150
+1588019704157,1824,Add Product to Cart,true,157
+1588019704966,1068,Add Product 2 to Cart,true,38
+1588019704866,1205,Look at Product,true,1179
+1588019704821,1267,Add Product to Cart,true,69
+1588019704682,1412,Look at Product,true,1389
+1588019705974,151,Logout,true,32
+1588019705519,704,List Products with different page,true,642
+1588019706034,216,Logout,true,60
+1588019704982,1321,Look at Product,true,1297
+1588019706125,186,Home,true,186
+1588019705968,419,List Products with different page,true,392
+1588019705220,1194,Add Product 2 to Cart,true,166
+1588019704837,1590,Add Product 2 to Cart,true,45
+1588019706251,238,Home,true,238
+1588019705079,1418,Add Product to Cart,true,173
+1588019705091,1420,Add Product 2 to Cart,true,95
+1588019705981,537,List Products with different page,true,512
+1588019706427,183,Logout,true,62
+1588019705815,805,List Products with different page,true,738
+1588019706414,214,Logout,true,63
+1588019706089,571,List Products with different page,true,527
+1588019705309,1362,Add Product 2 to Cart,true,101
+1588019706311,367,Login,true,231
+1588019706512,185,Logout,true,51
+1588019706611,127,Home,true,126
+1588019705571,1192,Add Product 2 to Cart,true,104
+1588019706672,148,Logout,true,40
+1588019706698,131,Home,true,131
+1588019706628,226,Home,true,226
+1588019706490,430,Login,true,254
+1588019706497,423,List Products with different page,true,379
+1588019706821,144,Home,true,144
+1588019706764,214,Logout,true,31
+1588019705575,1405,Add Product to Cart,true,169
+1588019705571,1436,Add Product 2 to Cart,true,121
+1588019706978,110,Home,true,110
+1588019707007,171,Logout,true,52
+1588019706738,494,Login,true,295
+1588019706980,320,List Products with different page,true,270
+1588019707179,128,Home,true,128
+1588019706678,673,List Products,true,631
+1588019705729,1630,Add Product 2 to Cart,true,102
+1588019706854,540,Login,true,264
+1588019706829,584,Login,true,316
+1588019706223,1227,Add Product 2 to Cart,true,56
+1588019706965,485,Login,true,264
+1588019706094,1411,Add Product to Cart,true,75
+1588019707359,155,Logout,true,28
+1588019706920,608,List Products,true,560
+1588019706071,1471,Add Product to Cart,true,106
+1588019707088,461,Login,true,323
+1588019707450,140,Logout,true,28
+1588019707308,297,Login,true,220
+1588019705920,1706,Add Product 2 to Cart,true,45
+1588019707514,160,Home,true,160
+1588019707627,91,Logout,true,48
+1588019707590,145,Home,true,145
+1588019706303,1533,Add Product to Cart,true,119
+1588019707233,603,List Products,true,555
+1588019707549,303,List Products,true,255
+1588019707718,163,Home,true,163
+1588019707395,491,List Products,true,423
+1588019707450,478,List Products,true,429
+1588019707413,532,List Products,true,463
+1588019706388,1567,Add Product 2 to Cart,true,191
+1588019707542,446,List Products with different page,true,399
+1588019706661,1340,Add Product 2 to Cart,true,266
+1588019707505,496,List Products with different page,true,453
+1588019707605,428,List Products,true,379
+1588019707735,300,Login,true,154
+1588019707955,175,Logout,true,66
+1588019707352,838,Look at Product,true,772
+1588019706621,1583,Add Product 2 to Cart,true,245
+1588019706519,1717,Add Product 2 to Cart,true,162
+1588019707674,564,Login,true,429
+1588019708002,236,Logout,true,62
+1588019708131,150,Home,true,150
+1588019707881,447,Login,true,278
+1588019708204,159,Logout,true,67
+1588019706921,1452,Add Product 2 to Cart,true,68
+1588019708238,142,Home,true,142
+1588019708236,162,Logout,true,39
+1588019707837,631,List Products with different page,true,587
+1588019708399,79,Home,true,79
+1588019708374,164,Logout,true,52
+1588019708363,205,Home,true,205
+1588019708538,87,Home,true,87
+1588019708036,589,List Products,true,518
+1588019708238,432,List Products,true,385
+1588019708282,400,Login,true,302
+1588019707530,1168,Look at Product,true,1146
+1588019708381,374,Login,true,254
+1588019708328,470,List Products,true,403
+1588019708478,370,Login,true,270
+1588019707948,1039,Look at Product,true,1012
+1588019707930,1063,Look at Product,true,1038
+1588019708568,521,Login,true,310
+1588019708625,489,Login,true,253
+1588019707888,1244,Look at Product,true,1231
+1588019707854,1289,Look at Product,true,1265
+1588019707303,1882,Add Product 2 to Cart,true,141
+1588019708034,1160,Look at Product,true,1134
+1588019708003,1215,Add Product 2 to Cart,true,149
+1588019707839,1415,Look at Product,true,1388
+1588019708682,597,List Products,true,549
+1588019708755,525,List Products,true,479
+1588019709218,107,Logout,true,50
+1588019708849,573,List Products,true,527
+1588019709325,176,Home,true,176
+1588019709089,486,List Products,true,419
+1588019709185,429,Logout,true,76
+1588019708191,1434,Add Product to Cart,true,51
+1588019707989,1703,Add Product 2 to Cart,true,147
+1588019709614,124,Home,true,124
+1588019709115,658,List Products,true,613
+1588019709693,207,Logout,true,37
+1588019709502,411,Login,true,299
+1588019709738,196,Login,true,117
+1588019708625,1324,Look at Product,true,1300
+1588019708800,1181,Look at Product,true,1173
+1588019708672,1314,Look at Product,true,1283
+1588019708470,1517,Add Product 2 to Cart,true,212
+1588019709625,538,List Products with different page,true,471
+1588019708987,1229,Add Product to Cart,true,147
+1588019709988,263,Logout,true,32
+1588019709913,388,List Products,true,346
+1588019709935,370,List Products,true,324
+1588019709143,1174,Add Product to Cart,true,133
+1588019709254,1076,Add Product to Cart,true,263
+1588019709132,1205,Add Product to Cart,true,101
+1588019708699,1674,Add Product to Cart,true,184
+1588019708994,1424,Add Product to Cart,true,123
+1588019709194,1239,Add Product to Cart,true,164
+1588019709282,1160,Look at Product,true,1139
+1588019709425,1203,Look at Product,true,1172
+1588019710374,339,List Products with different page,true,292
+1588019710317,411,List Products with different page,true,353
+1588019710330,398,List Products with different page,true,362
+1588019710216,532,List Products with different page,true,457
+1588019709774,979,Look at Product,true,954
+1588019709577,1183,Look at Product,true,1157
+1588019709981,789,Add Product to Cart,true,127
+1588019709282,1493,Look at Product,true,1401
+1588019710434,362,List Products with different page,true,314
+1588019709949,1001,Add Product to Cart,true,214
+1588019710419,563,List Products with different page,true,519
+1588019709986,1106,Add Product to Cart,true,164
+1588019710337,817,List Products with different page,true,743
+1588019710771,417,List Products with different page,true,376
+1588019710951,321,List Products with different page,true,273
+1588019710165,1124,Add Product 2 to Cart,true,154
+1588019711093,284,List Products with different page,true,256
+1588019710307,1180,Look at Product,true,1155
+1588019711290,199,Logout,true,52
+1588019710303,1228,Look at Product,true,1165
+1588019710629,1022,Add Product to Cart,true,79
+1588019710760,972,Add Product to Cart,true,109
+1588019710749,992,Add Product 2 to Cart,true,119
+1588019710714,1057,Add Product 2 to Cart,true,154
+1588019710753,1066,Add Product to Cart,true,172
+1588019710775,1070,Add Product to Cart,true,99
+1588019710443,1406,Add Product to Cart,true,138
+1588019711771,125,Logout,true,41
+1588019711741,164,Logout,true,63
+1588019710730,1282,Add Product 2 to Cart,true,94
+1588019710730,1287,Add Product 2 to Cart,true,141
+1588019711189,834,Add Product 2 to Cart,true,102
+1588019710983,1091,Add Product 2 to Cart,true,71
+1588019710799,1286,Add Product 2 to Cart,true,105
+1588019712023,138,Logout,true,62
+1588019711156,1005,Add Product 2 to Cart,true,143
+1588019712013,177,Logout,true,69
+1588019711820,385,List Products with different page,true,360
+1588019712074,142,Logout,true,40
+1588019712086,156,Logout,true,75
+1588019712017,227,Logout,true,59
+1588019711733,521,List Products with different page,true,461
+1588019711850,413,List Products with different page,true,386
+1588019711487,781,Add Product to Cart,true,117
+1588019711651,620,List Products with different page,true,541
+1588019711379,905,Add Product 2 to Cart,true,167
+1588019711845,462,List Products with different page,true,391
+1588019712162,198,Logout,true,36
+1588019712285,140,Logout,true,68
+1588019711532,897,Add Product to Cart,true,133
+1588019712269,164,List Products with different page,true,120
+1588019711272,1189,Add Product 2 to Cart,true,94
+1588019712461,145,Logout,true,86
+1588019712429,237,List Products with different page,true,173
+1588019712207,553,Add Product 2 to Cart,true,64
+1588019712256,535,Add Product 2 to Cart,true,99
+1588019712761,126,Logout,true,57
+1588019712265,633,Add Product 2 to Cart,true,90
+1588019712434,464,Add Product 2 to Cart,true,53
+1588019712791,109,Logout,true,49
+1588019712308,631,Add Product 2 to Cart,true,178
+1588019712898,80,Logout,true,31
+1588019712898,104,Logout,true,50
+1588019712273,731,Add Product 2 to Cart,true,80
+1588019712939,71,Logout,true,32
+1588019712669,362,Add Product 2 to Cart,true,81
+1588019713004,74,Logout,true,33
+1588019713031,71,Logout,true,29

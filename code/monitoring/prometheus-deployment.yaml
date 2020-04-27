@@ -34,6 +34,10 @@ spec:
 
         - name: prometheus-storage-volume
           emptyDir: {}
+      tolerations:
+      - key: "node1"
+        operator: "Exists"
+        effect: "NoSchedule"    
 ---
 apiVersion: v1
 kind: Service

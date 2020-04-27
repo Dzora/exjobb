@@ -14,8 +14,10 @@ spec:
         image: gcr.io/causal-bongo-266013/descartesresearch/teastore-db
         ports:
         - containerPort: 3306
-      imagePullSecrets:
-      - name: gcr-json-key
+      tolerations:
+      - key: "node2"
+        operator: "Exists"
+        effect: "NoSchedule"  
 ---
 apiVersion: v1
 kind: Service
@@ -47,8 +49,10 @@ spec:
         image: gcr.io/causal-bongo-266013/descartesresearch/teastore-registry
         ports:
         - containerPort: 8080
-      imagePullSecrets:
-      - name: gcr-json-key
+      tolerations:
+      - key: "node2"
+        operator: "Exists"
+        effect: "NoSchedule"
 ---
 apiVersion: v1
 kind: Service
@@ -89,8 +93,13 @@ spec:
           value: "teastore-db"
         - name: DB_PORT
           value: "3306"
-      imagePullSecrets:
-      - name: gcr-json-key
+        envFrom:
+        - configMapRef:
+            name: tracing-config
+      tolerations:
+      - key: "node3"
+        operator: "Exists"
+        effect: "NoSchedule"    
 ---
 apiVersion: v1
 kind: Service
@@ -127,8 +136,13 @@ spec:
           value: "teastore-auth"
         - name: REGISTRY_HOST
           value: "teastore-registry"
-      imagePullSecrets:
-      - name: gcr-json-key
+        envFrom:
+        - configMapRef:
+            name: tracing-config
+      tolerations:
+      - key: "node3"
+        operator: "Exists"
+        effect: "NoSchedule"      
 ---
 apiVersion: v1
 kind: Service
@@ -165,8 +179,13 @@ spec:
           value: "teastore-image"
         - name: REGISTRY_HOST
           value: "teastore-registry"
-      imagePullSecrets:
-      - name: gcr-json-key
+        envFrom:
+        - configMapRef:
+            name: tracing-config
+      tolerations:
+      - key: "node4"
+        operator: "Exists"
+        effect: "NoSchedule"      
 ---
 apiVersion: v1
 kind: Service
@@ -195,7 +214,7 @@ spec:
     spec:
       containers:
       - name: teastore-recommender
-        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-recommender:latest
+        image: gcr.io/causal-bongo-266013/descartesresearch/teastore-recommender
         ports:
         - containerPort: 8080
         env:
@@ -203,8 +222,13 @@ spec:
           value: "teastore-recommender"
         - name: REGISTRY_HOST
           value: "teastore-registry"
-      imagePullSecrets:
-      - name: gcr-json-key
+        envFrom:
+        - configMapRef:
+            name: tracing-config
+      tolerations:
+      - key: "node4"
+        operator: "Exists"
+        effect: "NoSchedule"      
 ---
 apiVersion: v1
 kind: Service
@@ -229,7 +253,7 @@ spec:
     metadata:
       labels:
         app: teastore
-        run: teastore-webui
+        run: teastore-webui   
     spec:
       containers:
       - name: teastore-webui
@@ -241,10 +265,15 @@ spec:
           value: "teastore-webui"
         - name: REGISTRY_HOST
           value: "teastore-registry"
-      imagePullSecrets:
-      - name: gcr-json-key
+        envFrom:
+        - configMapRef:
+            name: tracing-config
+      tolerations:
+      - key: "node1"
+        operator: "Exists"
+        effect: "NoSchedule"      
 
----
+---          
 apiVersion: v1
 kind: Service
 metadata:
