@@ -7,7 +7,7 @@ metadata:
 data:
     TRACER_CONFIG_PROPERTIES: |
         // Selector for the below config blocks
-        tracer=nothing
+        tracer=zipkin
         // Jaeger config
         jaeger.reporter_host=jaeger
         jaeger.reporter_port=6831

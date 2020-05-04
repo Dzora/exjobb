@@ -65,3 +65,41 @@ TEST HISTORY
 17. rm -rf results
 18. mkdir results
 19.
+
+
+Test history 2.
+1. bash taint.sh
+2. sh startMonitoring.sh
+3. Start grafana (5sec)
+4. sh deployTeaStore.sh (No tracing)
+5. sh deployJMeter.sh
+6. sh exec.sh
+7. mkdir results
+8. rm teastore_browse_nogui.jmx
+9. sh updateJMeter.sh
+10. sh pushTestScriptToJMeter.sh
+11. sh runTests.sh (nothing)
+12. sh getResults.sh
+13. Take results from grafana.
+14. sh startCassandra.sh (jaeger)
+15. sh deployJaeger.sh
+16. Change configmap to jaeger
+17. sh updateTracer.sh
+18. rm -rf results
+19. mkdir results
+20. sh runTests.sh (jaeger)
+21. sh getResults.sh
+22. Take results from grafana.
+23. sh deleteJaeger.sh
+24. sh stopCassandra.sh (jaeger)
+25. sh startCassandra.sh (zipkin)
+26. sh deployZipkin.sh
+27. Change configmap to zipkin
+28. sh updateTracer.sh
+29. rm -rf results
+30. mkdir results
+31. sh runTests.sh (zipkin)
+32. sh getResults.sh
+33. Take results from grafana.
+34. exec into cassandra and it's 1.64 GiB.
+
