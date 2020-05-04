@@ -1,0 +1,48 @@
+apiVersion: extensions/v1beta1
+kind: Deployment
+metadata:
+  name: jmeter
+spec:
+  template:
+    metadata:
+      labels:
+        app: jmeter
+        run: jmeter
+    spec:
+      containers:
+      - name: jmeter
+        image: gcr.io/causal-bongo-266013/jmeter:latest
+        ports:
+        - containerPort: 1099
+        - containerPort: 50000
+        - containerPort: 5000
+        env:
+          - name: NODE_IP
+            valueFrom:
+              fieldRef: 
+                fieldPath: status.hostIP
+      tolerations:
+      - key: "node2"
+        operator: "Exists"
+        effect: "NoSchedule"            
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: jmeter
+  labels:
+    app: jmeter
+    service: jmeter
+spec:
+  ports:
+  - port: 1099
+    name: first
+    targetPort: 1099
+  - port: 50000
+    name: second
+    targetPort: 50000
+  - name: "5000"
+    port: 5000
+    targetPort: 5000
+  selector:
+    run: jmeter

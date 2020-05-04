@@ -93,6 +93,10 @@ spec:
           value: "teastore-db"
         - name: DB_PORT
           value: "3306"
+        - name: JAEGER_AGENT_HOST
+          valueFrom:
+            fieldRef:
+              fieldPath: status.hostIP
         envFrom:
         - configMapRef:
             name: tracing-config
@@ -136,6 +140,10 @@ spec:
           value: "teastore-auth"
         - name: REGISTRY_HOST
           value: "teastore-registry"
+        - name: JAEGER_AGENT_HOST
+          valueFrom:
+            fieldRef:
+              fieldPath: status.hostIP          
         envFrom:
         - configMapRef:
             name: tracing-config
@@ -179,6 +187,10 @@ spec:
           value: "teastore-image"
         - name: REGISTRY_HOST
           value: "teastore-registry"
+        - name: JAEGER_AGENT_HOST
+          valueFrom:
+            fieldRef:
+              fieldPath: status.hostIP          
         envFrom:
         - configMapRef:
             name: tracing-config
@@ -222,6 +234,10 @@ spec:
           value: "teastore-recommender"
         - name: REGISTRY_HOST
           value: "teastore-registry"
+        - name: JAEGER_AGENT_HOST
+          valueFrom:
+            fieldRef:
+              fieldPath: status.hostIP          
         envFrom:
         - configMapRef:
             name: tracing-config
@@ -265,6 +281,10 @@ spec:
           value: "teastore-webui"
         - name: REGISTRY_HOST
           value: "teastore-registry"
+        - name: JAEGER_AGENT_HOST
+          valueFrom:
+            fieldRef:
+              fieldPath: status.hostIP          
         envFrom:
         - configMapRef:
             name: tracing-config

@@ -1,8 +1,9 @@
 #!/bin/bash
 
 echo "Starting"
-kubectl apply -f ../../zipkin/zipkin-deployment.yaml
-kubectl apply -f ../../zipkin/zipkin-service.yaml
+kubectl delete job jaeger-cassandra-schema-job
+kubectl apply -f ../../zipkin/production/zipkinDeployment.yaml
+kubectl apply -f ../../zipkin/production/zipkin-service.yaml
 
 kubectl get nodes --output wide
 kubectl get svc

@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Starting"
-kubectl apply -f ../../jaeger/jaeger-deployment.yaml
-kubectl apply -f ../../jaeger/jaeger-service.yaml
+kubectl delete job jaeger-cassandra-schema-job
+kubectl apply -f ../../jaeger/production/jaegerDeployment.yaml
 
 kubectl get nodes --output wide
 kubectl get svc

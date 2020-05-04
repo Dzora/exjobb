@@ -47,7 +47,7 @@
   "gnetId": 405,
   "graphTooltip": 0,
   "id": null,
-  "iteration": 1587994861051,
+  "iteration": 1588083021332,
   "links": [],
   "panels": [
     {
@@ -446,10 +446,10 @@
       "steppedLine": false,
       "targets": [
         {
-          "expr": "sum ((node_memory_MemTotal_bytes{instance=~'$node'} - node_memory_MemFree_bytes{instance=~'$node'} - node_memory_Buffers_bytes{instance=~'$node'} - node_memory_Cached_bytes{instance=~'$node'}) / node_memory_MemTotal_bytes{instance=~'$node'}) * 100",
+          "expr": "sum ( node_memory_MemTotal_bytes{instance=~'$node'} - node_memory_MemFree_bytes{instance=~'$node'} - node_memory_Buffers_bytes{instance=~'$node'} - node_memory_Cached_bytes{instance=~'$node'} - node_memory_SwapCached_bytes{instance=~'$node'} - node_memory_Slab_bytes{instance=~'$node'} - node_memory_PageTables_bytes{instance=~'$node'} - node_memory_VmallocUsed_bytes{instance=~'$node'} ) or ( node_memory_MemTotal{instance=~'$node'} - node_memory_MemFree{instance=~'$node'} - node_memory_Buffers{instance=~'$node'} - node_memory_Cached{instance=~'$node'} - node_memory_SwapCached{instance=~'$node'} - node_memory_Slab{instance=~'$node'} - node_memory_PageTables{instance=~'$node'} - node_memory_VmallocUsed{instance=~'$node'} )",
           "interval": "",
           "intervalFactor": 1,
-          "legendFormat": "Total memory used",
+          "legendFormat": "Total apps memory used",
           "refId": "A"
         }
       ],
@@ -457,7 +457,7 @@
       "timeFrom": null,
       "timeRegions": [],
       "timeShift": null,
-      "title": "Total Memory",
+      "title": "Total Apps Memory",
       "tooltip": {
         "shared": true,
         "sort": 0,
@@ -473,10 +473,10 @@
       },
       "yaxes": [
         {
-          "format": "percent",
+          "format": "decbits",
           "label": null,
           "logBase": 1,
-          "max": "400",
+          "max": null,
           "min": null,
           "show": true
         },
@@ -1175,7 +1175,7 @@
       }
     }
   ],
-  "refresh": "10s",
+  "refresh": "5s",
   "schemaVersion": 22,
   "style": "dark",
   "tags": [
@@ -1211,7 +1211,7 @@
     ]
   },
   "time": {
-    "from": "now-1h",
+    "from": "now-30m",
     "to": "now"
   },
   "timepicker": {
