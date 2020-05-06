@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 import csv
 import sys
 import os
+import numpy as np
+from matplotlib.lines import Line2D
+from matplotlib.patches import Polygon
 
 
 def readCSV(filename):
@@ -29,13 +32,43 @@ def plotArray(data):
 	xLabels = ["noTrace20", "jaeger20", "zipkin20", "noTrace40", "jaeger40", "zipkin40", "noTrace60", "jaeger60","zipkin60", "noTrace80","jaeger80","zipkin80", "noTrace100", "jaeger100", "zipkin100"]
 
 	fig, ax = plt.subplots()
-	ax.boxplot(data,sym='k+', whis=[1,99], showfliers=True)
+	bp = ax.boxplot(data,sym='k+', whis=[1,99], showfliers=True)
 	ax.set_xticklabels(xLabels, rotation=45)
 	ax.set_ylabel("Bytes")
 	ax.yaxis.grid(True, linestyle='-', which='major', color='lightgrey', alpha=0.5)
 	ax.set_yscale('log')
 	[ax.axvline(x, color = 'grey', linestyle='-') for x in [3.5,6.5,9.5,12.5]]
 	#ax.set_ylim(-5, 400)
+	box_colors = ['darkkhaki', 'royalblue','purple']
+	num_boxes = len(data)
+	medians = np.empty(num_boxes)
+	for i in range(num_boxes):
+	    box = bp['boxes'][i]
+	    boxX = []
+	    boxY = []
+	    for j in range(5):
+	        boxX.append(box.get_xdata()[j])
+	        boxY.append(box.get_ydata()[j])
+	    box_coords = np.column_stack([boxX, boxY])
+	    # Alternate between Dark Khaki and Royal Blue
+	    ax.add_patch(Polygon(box_coords, facecolor=box_colors[i % 3]))
+	    # Now draw the median lines back over what we just filled in
+	    med = bp['medians'][i]
+	    medianX = []
+	    medianY = []
+	    for j in range(2):
+	        medianX.append(med.get_xdata()[j])
+	        medianY.append(med.get_ydata
+	        	()[j])
+	        ax.plot(medianX, medianY, 'k')
+	    medians[i] = medianY[0]
+
+	custom_lines = [Line2D([0], [0], color='darkkhaki', lw=4),
+                Line2D([0], [0], color='royalblue', lw=4),
+                Line2D([0], [0], color='purple', lw=4)]
+
+	ax.legend(custom_lines, ['No Tracing','Jaeger','Zipkin'])
+
 	ax.set_title("Total Network Received")
 
 	plt.show()
