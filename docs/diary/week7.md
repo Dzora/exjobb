@@ -1,4 +1,4 @@
-# Week 6, 02-03-2020 - 06-03-2020
+# Week 7, 02-03-2020 - 06-03-2020
 ## Done
 Has decided to use TeaStore and to implement OpenTracing on it. I have also written some in the report about distributed tracing, pods, etc. I have also read the other students reports in preperation of the pear review next monday.
 ## Problems
